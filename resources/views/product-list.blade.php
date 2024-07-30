@@ -8,6 +8,7 @@
     <title>Liste des produits</title>
 </head>
 <body>
-
+<?php
+?>
 </body>
 </html>
